@@ -68,4 +68,5 @@ To use this project, follow these steps:
 - **Data-Driven Decision Making:** Empower your decision-making process by leveraging valuable trends, patterns, and statistics derived from the PhonePe Pulse data.
 
 **User Interface**
+
 ![image](https://github.com/SUDHEER2002/Phonepe-Pulse-Data-Visualization-and-Exploration/assets/98392941/4191afad-6d21-4ef1-9200-0fce01b7c48b)
